@@ -14,7 +14,7 @@ Step 3: email_search_playwright.py  →  (coming soon) Dynamic sites with JS-ren
 
 ```bash
 git clone https://github.com/Dimitris-Gtn/Hotel_Scrapping.git
-cd Hotel_Scrapping
+cd Hotel_Scraping
 pip install -r requirements.txt
 cp .env.example .env
 # Add your Google Places API key to .env
