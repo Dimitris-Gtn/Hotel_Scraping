@@ -1,0 +1,6 @@
+requests
+pandas
+openpyxl
+python-dotenv
+beautifulsoup4
+pyyaml
