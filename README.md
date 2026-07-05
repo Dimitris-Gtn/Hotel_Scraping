@@ -12,8 +12,8 @@ Step 2: email_search.py        →  Extract emails from property websites
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hotel_Scrapping.git
-cd Hotel_Scrapping
+git clone https://github.com/Dimitris-Gtn/Hotel_Scrapping.git
+cd Hotel_Scraping
 pip install -r requirements.txt
 cp .env.example .env
 # Add your Google Places API key to .env
