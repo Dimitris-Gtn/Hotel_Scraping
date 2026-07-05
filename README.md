@@ -13,7 +13,7 @@ Step 3: email_search_playwright.py  →  (coming soon) Dynamic sites with JS-ren
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hotel_Scrapping.git
+git clone https://github.com/Dimitris-Gtn/Hotel_Scrapping.git
 cd Hotel_Scrapping
 pip install -r requirements.txt
 cp .env.example .env
